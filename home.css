@@ -4,6 +4,10 @@ body {
   background-color: #202225;
 }
 
+#navigation {
+  background-color: #2f3136;
+}
+
 ul.site-navigation {
   list-style-type: none;
   margin: 0;
